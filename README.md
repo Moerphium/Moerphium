@@ -8,7 +8,7 @@
  - 📚 I'm currently learning everything
  - ✔  I'm looking for support and tipps from all of you here
  - 🐍 My goal for this year is to post my first Pyhthon program
- - 🚒 Fun Fact: I love to volunteer as a Firefighter in my hometown
+ - 🚒 Fun Fact: I love to volunteer as a Firefighter in my hometown🔥
 
 <br/>
 
