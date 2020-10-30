@@ -3,6 +3,7 @@
 ## I'am an Engineer and want to learn Programming for my future!👋
 
 <br />
+<br />
 
  - ✍ I'm currently working on this GitHub-Profile
  - 📚 I'm currently learning everything
@@ -10,7 +11,8 @@
  - 🐍 My goal for this year is to post my first Pyhthon program
  - 🚒 Fun Fact: I love to volunteer as a Firefighter in my hometown🔥
 
-<br/>
+<br />
+<br />
 
 ### Let's get startet! I'm excited what is about to come!!!
 
